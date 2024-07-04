@@ -1,0 +1,1052 @@
+[
+    [
+        {
+            "description": "DATING APP INTERACTIONS",
+            "words": [
+                "SWIPE",
+                "MATCH",
+                "MESSAGE",
+                "BLOCK"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {
+            "description": "OUTER COVERINGS",
+            "words": [
+                "BARK",
+                "SCALE",
+                "HIDE",
+                "FILM"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "description": "FORMAL WEAR ACCESSORIES",
+            "words": [
+                "CUFF",
+                "CHAIN",
+                "STUD",
+                "CLIP"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {
+            "description": "LIVE ___",
+            "words": [
+                "BAND",
+                "WIRE",
+                "STOCK",
+                "ACTION"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {"type": "one-shot"}
+    ],
+    [
+        {
+            "description": "SYMBOLS OF WEALTH",
+            "words": [
+                "CROWN",
+                "GOLD",
+                "MANSION",
+                "DIAMOND"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {
+            "description": "ELEMENTS OF FANTASY",
+            "words": [
+                "DRAGON",
+                "SPELL",
+                "UNICORN",
+                "WIZARD"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "description": "ITEMS FOUND IN A FIELD",
+            "words": [
+                "SCARECROW",
+                "FENCE",
+                "TRACTOR",
+                "HARVEST"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {
+            "description": "THINGS WITH ARMS",
+            "words": [
+                "CHAIR",
+                "CLOCK",
+                "COAT",
+                "OCTOPUS"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {"type": "one-shot"}
+    ],
+    [
+        {
+            "description": "TIMEKEEPING DEVICES",
+            "words": [
+                "WATCH",
+                "CLOCK",
+                "TIMER",
+                "HOURGLASS"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {
+            "description": "ARTICLES OF CLOTHING",
+            "words": [
+                "BOOT",
+                "SLIP",
+                "CAP",
+                "GLOVE"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "description": "GOLF TERMS",
+            "words": [
+                "IRON",
+                "DRIVER",
+                "PUTTER",
+                "FAIRWAY"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {
+            "description": "VERBS OF DISAGREEMENT",
+            "words": [
+                "REFUTE",
+                "REJECT",
+                "DENY",
+                "DEFY"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {"type": "one-shot"}
+    ],
+    [
+        {
+            "description": "CELEBRATORY ACTS",
+            "words": [
+                "TOAST",
+                "DANCE",
+                "FIREWORK",
+                "SONG"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {
+            "description": "THANKSGIVING SYMBOLS",
+            "words": [
+                "PARADE",
+                "HARVEST",
+                "CORNUCOPIA",
+                "GRATITUDE"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "description": "SYMBOLS OF ABUNDANCE",
+            "words": [
+                "HORN",
+                "FOUNTAIN",
+                "WHEAT",
+                "RIVER"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {
+            "description": "BELT VARIETIES",
+            "words": [
+                "ENGINE",
+                "ASTEROID",
+                "KARATE",
+                "CONVEYOR"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {"type": "one-shot"}
+    ],
+    [
+        {
+            "description": "LEGUMES",
+            "words": [
+                "LENTIL",
+                "CHICKPEA",
+                "PINTO",
+                "SOY"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {
+            "description": "EATING ACTIONS",
+            "words": [
+                "NIBBLE",
+                "DEVOUR",
+                "GRAZE",
+                "GOBBLE"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "description": "ART METHODS",
+            "words": [
+                "BRUSH",
+                "SKETCH",
+                "LAYER",
+                "BLEND"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {
+            "description": "TRANSFORMATION PROCESSES",
+            "words": [
+                "METAMORPHOSE",
+                "CONVERT",
+                "EVOLVE",
+                "REFINE"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {"type": "one-shot"}
+    ],
+    [
+        {
+            "description": "COURTROOM VOCABULARY",
+            "words": [
+                "APPEAL",
+                "RECORD",
+                "SUIT",
+                "WITNESS"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "description": "MUSIC TERMS",
+            "words": [
+                "HOOK",
+                "MIX",
+                "RELEASE",
+                "SCORE"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {
+            "description": "THINGS WITH KEYS",
+            "words": [
+                "ANSWER",
+                "CIPHER",
+                "ISLAND",
+                "LOCK"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {
+            "description": "FASHION ITEMS",
+            "words": [
+                "BOW",
+                "BRACE",
+                "GOWN",
+                "HOOD"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {"type": "intentional_overlap"}
+    ],
+    [
+        {
+            "description": "ANIMAL BEHAVIORS",
+            "words": [
+                "BURROW",
+                "HIBERNATE",
+                "NEST",
+                "PREEN"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "description": "COMPUTER TERMS",
+            "words": [
+                "BOOT",
+                "CHIP",
+                "COOKIE",
+                "SPAM"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {
+            "description": "SHOE STYLES",
+            "words": [
+                "CLEAT",
+                "DERBY",
+                "LOAFER",
+                "OXFORD"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {
+            "description": "CONSUMABLES",
+            "words": [
+                "APPLE",
+                "JAM",
+                "JAVA",
+                "MINT"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {"type": "intentional_overlap"}
+    ],
+    [
+        {
+            "description": "BURROWING ANIMALS",
+            "words": [
+                "ANT",
+                "BADGER",
+                "MEERKAT",
+                "WOMBAT"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {
+            "description": "FILM TITLE ANIMALS",
+            "words": [
+                "JAWS",
+                "SIMBA",
+                "TOTO",
+                "WILLY"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "description": "MOVIES WITH ONE WORD TITLES",
+            "words": [
+                "BRAVE",
+                "GRAVITY",
+                "PSYCHO",
+                "ZOOTOPIA"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {
+            "description": "WORDS THAT ARE ALSO VERBS",
+            "words": [
+                "DRILL",
+                "DUCK",
+                "HAMMER",
+                "MATCH"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {"type": "intentional_overlap"}
+    ],
+    [
+        {
+            "description": "FLYING ANIMALS",
+            "words": [
+                "CRANE",
+                "DUCK",
+                "MOTH",
+                "SWIFT"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {
+            "description": "CONSTRUCTION MACHINERY",
+            "words": [
+                "BULLDOZER",
+                "HOIST",
+                "JACKHAMMER",
+                "PAVER"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "description": "COMPUTER TERMS",
+            "words": [
+                "FIREWALL",
+                "PORT",
+                "PYTHON",
+                "WEB"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {
+            "description": "WINE VARIETALS",
+            "words": [
+                "CHARDONNAY",
+                "MARSALA",
+                "MERLOT",
+                "RIESLING"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {"type": "intentional_overlap"}
+    ],
+    [
+        {
+            "description": "COMMUNICATION VERBS",
+            "words": [
+                "BROADCAST",
+                "CONVEY",
+                "RELAY",
+                "SIGNAL"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "description": "ROADWAY ELEMENTS",
+            "words": [
+                "CURB",
+                "DETOUR",
+                "LANE",
+                "MERGE"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {
+            "description": "TV SHOW GENRES",
+            "words": [
+                "DOCUMENTARY",
+                "REALITY",
+                "SERIAL",
+                "SKETCH"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {
+            "description": "TRANSPORTATION OPERATIONS",
+            "words": [
+                "CARRIER",
+                "DISPATCH",
+                "NAVIGATE",
+                "PORT"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {"type": "intentional_overlap"}
+    ],
+    [
+        {
+            "description": "COMPUTER PARTS",
+            "words": [
+                "GPU",
+                "PSU",
+                "PROCESSOR",
+                "STANDOFF"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {
+            "description": "LEGAL TERMS",
+            "words": [
+                "DECREE",
+                "STATUTE",
+                "TORT",
+                "WITNESS"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "description": "INVITATIONS TO COMPETE",
+            "words": [
+                "CHALLENGE",
+                "DEBATE",
+                "DUEL",
+                "MATCH"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {
+            "description": "FORMS OF ADDRESS",
+            "words": [
+                "CHIEF",
+                "DAME",
+                "HONOR",
+                "KNIGHT"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {
+            "type": "unseeded_false_group",
+            "false_group": {
+                "description": "WORDS ASSOCIATED WITH DUELS",
+                "words": [
+                    "CHALLENGE",
+                    "HONOR",
+                    "STANDOFF",
+                    "WITNESS"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "description": "DIGITAL COMMUNICATION PLATFORMS",
+            "words": [
+                "DISCORD",
+                "SKYPE",
+                "WECHAT",
+                "ZOOM"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {
+            "description": "OPENINGS",
+            "words": [
+                "APERTURE",
+                "DOOR",
+                "GATE",
+                "HATCH"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "description": "VISION CORRECTION",
+            "words": [
+                "LASIK",
+                "LENS",
+                "MONOCLE",
+                "SPECS"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {
+            "description": "WINDOW COVERINGS",
+            "words": [
+                "BLINDS",
+                "CURTAINS",
+                "DRAPES",
+                "SHUTTER"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {
+            "type": "unseeded_false_group",
+            "false_group": {
+                "description": "PHOTOGRAPHY TERMS",
+                "words": [
+                    "APERTURE", 
+                    "LENS", 
+                    "SHUTTER", 
+                    "ZOOM"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "description": "TYPES OF PUBLIC SPACES",
+            "words": [
+                "ARENA",
+                "COURTYARD",
+                "PLAZA",
+                "SQUARE"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "description": "GEOMETRIC SHAPES",
+            "words": [
+                "CUBE",
+                "CYLINDER",
+                "TORUS",
+                "TRIANGLE"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {
+            "description": "JEWELRY ITEMS",
+            "words": [
+                "BRACELET",
+                "EARRING",
+                "NECKLACE",
+                "RING"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {
+            "description": "SPORTS EQUIPMENT",
+            "words": [
+                "BALL",
+                "HOOP",
+                "PUCK",
+                "SKATE"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {
+            "type": "unseeded_false_group",
+            "false_group": {
+                "description": "SHAPES IN FOOD",
+                "words": [
+                    "BALL", 
+                    "CUBE", 
+                    "RING", 
+                    "SQUARE"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "description": "MEASURING INSTRUMENTS",
+            "words": [
+                "BAROMETER",
+                "HYGROMETER",
+                "SCALE",
+                "THERMOMETER"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {
+            "description": "MOVEMENTS IN SPORTS",
+            "words": [
+                "DRIFT",
+                "JUMP",
+                "PIVOT",
+                "SPRINT"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "description": "PRODUCTION METHODOLOGIES",
+            "words": [
+                "AGILE",
+                "LEAN",
+                "SCRUM",
+                "SIGMA"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {
+            "description": "COMPUTER TERMINOLOGY",
+            "words": [
+                "BOOTSTRAP",
+                "NODE",
+                "PORT",
+                "SOCKET"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {
+            "type": "unseeded_false_group",
+            "false_group": {
+                "description": "STARTUP BUZZWORDS",
+                "words": [
+                    "BOOTSTRAP", 
+                    "LEAN", 
+                    "PIVOT", 
+                    "SCALE"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "description": "MATERIALS",
+            "words": [
+                "GLASS",
+                "LEATHER",
+                "PLASTIC",
+                "RUBBER"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {
+            "description": "COLLISION TERMS",
+            "words": [
+                "BUMP",
+                "CRASH",
+                "JAR",
+                "STRIKE"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "description": "EARTH SCIENCE TERMS",
+            "words": [
+                "CRATER",
+                "DELTA",
+                "PLATE",
+                "VALLEY"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {
+            "description": "TERMS RELATED TO CUDDLING",
+            "words": [
+                "EMBRACE",
+                "NESTLE",
+                "SNUGGLE",
+                "SPOON"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {
+            "type": "unseeded_false_group",
+            "false_group": {
+                "description": "THINGS FOUND IN A KITCHEN",
+                "words": [
+                    "GLASS", 
+                    "JAR", 
+                    "PLATE", 
+                    "SPOON"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "description": "MUSIC GENRES",
+            "words": [
+                "FOLK",
+                "JAZZ",
+                "REGGAE",
+                "TECHNO"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {
+            "description": "SLANG FOR MONEY",
+            "words": [
+                "BREAD",
+                "BUCKS",
+                "LOOT",
+                "MOOLA"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "description": "SPORTS EQUIPMENT",
+            "words": [
+                "BAT",
+                "NETS",
+                "RACKET",
+                "SKATE"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {
+            "description": "FORMS OF ENERGY",
+            "words": [
+                "CHEMICAL",
+                "HEAT",
+                "POTENTIAL",
+                "WIND"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {
+            "type": "seeded_false_group",
+            "false_group": {
+                "description": "NBA TEAMS",
+                "words": [
+                    "BUCKS",
+                    "HEAT",
+                    "JAZZ",
+                    "NETS"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "description": "SPORTS TEAM NAMES",
+            "words": [
+                "ANGEL",
+                "GIANT",
+                "OILER",
+                "SENATOR"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {
+            "description": "ANIMAL MASCOTS",
+            "words": [
+                "BIRD",
+                "DRAGON",
+                "FALCON",
+                "TIGER"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {
+            "description": "MYTHICAL CREATURES",
+            "words": [
+                "KRAKEN",
+                "MINOTAUR",
+                "PEGASUS",
+                "UNICORN"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "description": "VEHICLES",
+            "words": [
+                "AIRPLANE",
+                "BICYCLE",
+                "BOAT",
+                "ROCKET"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {
+            "type": "seeded_false_group",
+            "false_group": {
+                "description": "THINGS WITH WINGS",
+                "words": [
+                    "AIRPLANE",
+                    "ANGEL",
+                    "BIRD",
+                    "PEGASUS"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "description": "TYPES OF CONTAINERS",
+            "words": [
+                "CAN",
+                "CHEST",
+                "JAR",
+                "VIAL"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {
+            "description": "SYMBOLS OF POWER",
+            "words": [
+                "CROWN",
+                "GAVEL",
+                "SWORD",
+                "THRONE"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {
+            "description": "PARTS OF THE BODY",
+            "words": [
+                "ARM",
+                "HEEL",
+                "LIP",
+                "SHIN"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "description": "POPULAR BABY NAMES",
+            "words": [
+                "JOHN",
+                "LIAM",
+                "MIA",
+                "OLIVIA"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {
+            "type": "seeded_false_group",
+            "false_group": {
+                "description": "SLANG FOR TOILET",
+                "words": [
+                    "CAN",
+                    "HEAD",
+                    "JOHN",
+                    "THRONE"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "description": "MILITARY RANKS",
+            "words": [
+                "CAPTAIN",
+                "COLONEL",
+                "COMMANDER",
+                "MAJOR"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {
+            "description": "COLORS",
+            "words": [
+                "AQUA",
+                "BROWN",
+                "JADE",
+                "SAFFRON"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {
+            "description": "STOCK MARKET TERMS",
+            "words": [
+                "BEAR",
+                "BOND",
+                "BULL",
+                "SHARE"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {
+            "description": "THINGS YOU PAY",
+            "words": [
+                "BILL",
+                "TARIFF",
+                "TAX",
+                "TOLL"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "type": "seeded_false_group",
+            "false_group": {
+                "description": "NFL PLAYERS",
+                "words": [
+                    "BEAR",
+                    "BILL",
+                    "BROWN",
+                    "COMMANDER"
+                ]
+            }
+        }
+    ],
+    [
+        {
+            "description": "TYPES OF FABRIC",
+            "words": [
+                "COTTON",
+                "DENIM",
+                "SATIN",
+                "SILK"
+            ],
+            "color": "#fbd400",
+            "emoji": "\ud83d\udfe8"
+        },
+        {
+            "description": "TERMS DESCRIBING TERRAIN",
+            "words": [
+                "FLAT",
+                "GLACIAL",
+                "MARSHY",
+                "ROCKY"
+            ],
+            "color": "#5492ff",
+            "emoji": "\ud83d\udfe6"
+        },
+        {
+            "description": "BEATLES ALBUM WORDS",
+            "words": [
+                "ABBEY",
+                "MYSTERY",
+                "PEPPER",
+                "WHITE"
+            ],
+            "color": "#df7bea",
+            "emoji": "\ud83d\udfea"
+        },
+        {
+            "description": "RELIGIOUS BUILDINGS",
+            "words": [
+                "CATHEDRAL",
+                "CHAPEL",
+                "CHURCH",
+                "TEMPLE"
+            ],
+            "color": "#69e352",
+            "emoji": "\ud83d\udfe9"
+        },
+        {
+            "type": "seeded_false_group",
+            "false_group": {
+                "description": "___ ROAD",
+                "words": [
+                    "ABBEY",
+                    "HIGH",
+                    "ROCKY",
+                    "SILK"
+                ]
+            }
+        }
+    ]
+]

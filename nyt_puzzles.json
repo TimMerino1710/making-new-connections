@@ -1,0 +1,922 @@
+[
+    [
+        {
+            "description": "NECKWEAR",
+            "words": [
+                "ASCOT",
+                "BOLO",
+                "SCARF",
+                "TIE"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "SHIP DIRECTIONS",
+            "words": [
+                "BOW",
+                "PORT",
+                "STARBOARD",
+                "STERN"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "DETERGENTS",
+            "words": [
+                "ALL",
+                "ERA",
+                "GAIN",
+                "TIDE"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "___ TRIANGLE",
+            "words": [
+                "ACUTE",
+                "BERMUDA",
+                "LOVE",
+                "RIGHT"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ],
+    [
+        {
+            "description": "CLASSIC ARCADE GAMES",
+            "words": [
+                "ASTEROIDS",
+                "BREAKOUT",
+                "FROGGER",
+                "PONG"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "DANCES",
+            "words": [
+                "HUSTLE",
+                "SALSA",
+                "SWING",
+                "TANGO"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "TOUCHSCREEN GESTURES",
+            "words": [
+                "PINCH",
+                "SPREAD",
+                "SWIPE",
+                "TAP"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "RAPPERS MINUS NUMBERS",
+            "words": [
+                "CENT",
+                "CHAINZ",
+                "PAC",
+                "SAVAGE"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ],
+    [
+        {
+            "description": "DOG BREEDS",
+            "words": [
+                "BOXER",
+                "DALMATIAN",
+                "HUSKY",
+                "POODLE"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "ANIMAL NOSES",
+            "words": [
+                "BEAK",
+                "MUZZLE",
+                "SNOUT",
+                "TRUNK"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "TRAFFIC SIGNS",
+            "words": [
+                "DETOUR",
+                "SLOW",
+                "STOP",
+                "YIELD"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "SOUND ___",
+            "words": [
+                "ASLEEP",
+                "BARRIER",
+                "BITE",
+                "WAVE"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ],
+    [
+        {
+            "description": "HALLOWEEN DECORATIONS",
+            "words": [
+                "BAT",
+                "COBWEB",
+                "PUMPKIN",
+                "TOMBSTONE"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "TV SHOWS",
+            "words": [
+                "24",
+                "BONES",
+                "FIREFLY",
+                "WEEDS"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "SLOT MACHINE SYMBOLS",
+            "words": [
+                "7",
+                "BAR",
+                "BELL",
+                "CHERRY"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "NUMBERS IN BOOK TITLES",
+            "words": [
+                "20,000",
+                "2001",
+                "22",
+                "451"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ],
+    [
+        {
+            "description": "MOVIE GENRES",
+            "words": [
+                "HORROR",
+                "MUSICAL",
+                "ROMANCE",
+                "WESTERN"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "PATTERNS",
+            "words": [
+                "HOUNDSTOOTH",
+                "PAISLEY",
+                "PLAID",
+                "STRIPES"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "SYNONYMS FOR FALSEHOOD",
+            "words": [
+                "FIB",
+                "FICTION",
+                "LIE",
+                "TALE"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "CANDY PIECES",
+            "words": [
+                "DOT",
+                "GOOBER",
+                "KISS",
+                "WHOPPER"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ],
+    [
+        {
+            "description": "SOCIAL MEDIA ACTIONS",
+            "words": [
+                "FOLLOW",
+                "LIKE",
+                "SHARE",
+                "SUBSCRIBE"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "USE A NEEDLE AND THREAD",
+            "words": [
+                "DARN",
+                "HEM",
+                "SEAM",
+                "SEW"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "SHOWS SET IN HOSPITALS",
+            "words": [
+                "ER",
+                "HOUSE",
+                "RATCHED",
+                "SCRUBS"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "EXPRESSIONS OF HESITATION",
+            "words": [
+                "ERM",
+                "UH",
+                "UM",
+                "WELL"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ],
+    [
+        {
+            "description": "PLAYGROUND FIXTURES",
+            "words": [
+                "SANDBOX",
+                "SEESAW",
+                "SLIDE",
+                "SWING"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "INFLUENCE",
+            "words": [
+                "CLOUT",
+                "PULL",
+                "SWAY",
+                "WEIGHT"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "EGYPTIAN SYMBOLS",
+            "words": [
+                "ANKH",
+                "CROOK",
+                "EYE",
+                "SCARAB"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "FONTS",
+            "words": [
+                "COURIER",
+                "IMPACT",
+                "PAPYRUS",
+                "TIMES"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ],
+    [
+        {
+            "description": "PRODUCED BY TREES",
+            "words": [
+                "ACORN",
+                "CONE",
+                "POLLEN",
+                "SAP"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "CANDY STORE TREATS",
+            "words": [
+                "CHOCOLATE",
+                "GUM",
+                "LICORICE",
+                "LOLLIPOP"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "TARGET OF A SCHEME",
+            "words": [
+                "CHUMP",
+                "FOOL",
+                "MARK",
+                "SUCKER"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "THINGS WITH EYE(S)",
+            "words": [
+                "FACE",
+                "HURRICANE",
+                "NEEDLE",
+                "POTATO"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ],
+    [
+        {
+            "description": "NFL PLAYERS",
+            "words": [
+                "BRONCO",
+                "COWBOY",
+                "PACKER",
+                "RAVEN"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "PASTA SHAPES",
+            "words": [
+                "BOWTIE",
+                "ELBOW",
+                "SHELL",
+                "SPIRAL"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "JOINTS",
+            "words": [
+                "HIP",
+                "KNEE",
+                "SHOULDER",
+                "WRIST"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "MOVIES WITH \u201c!\u201d",
+            "words": [
+                "AIRPLANE",
+                "MOTHER",
+                "OKLAHOMA",
+                "THEM"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ],
+    [
+        {
+            "description": "MARSUPIALS",
+            "words": [
+                "KANGAROO",
+                "KOALA",
+                "WALLABY",
+                "WOMBAT"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "CHOCOLATE BARS",
+            "words": [
+                "CHUNKY",
+                "CRUNCH",
+                "MARS",
+                "MOUNDS"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "SLANG FOR MONEY",
+            "words": [
+                "CHEDDAR",
+                "DOUGH",
+                "PAPER",
+                "STACKS"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "NAKED ___",
+            "words": [
+                "EYE",
+                "GUN",
+                "MOLE RAT",
+                "TRUTH"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ],
+    [
+        {
+            "description": "UNITS OF LENGTH",
+            "words": [
+                "FOOT",
+                "INCH",
+                "MILE",
+                "YARD"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "TYPES OF PAINT",
+            "words": [
+                "ACRYLIC",
+                "OIL",
+                "TEMPERA",
+                "WATERCOLOR"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "DEEP-FRIED FOOD",
+            "words": [
+                "FALAFEL",
+                "KATSU",
+                "SAMOSA",
+                "SCHNITZEL"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "STARTS OF U.S. COINS",
+            "words": [
+                "DIM",
+                "NICK",
+                "PEN",
+                "QUART"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ],
+    [
+        {
+            "description": "RELATIVES",
+            "words": [
+                "AUNT",
+                "COUSIN",
+                "MOTHER",
+                "NEPHEW"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "SYNONYMS FOR OFFBEAT",
+            "words": [
+                "DAFFY",
+                "KOOKY",
+                "QUIRKY",
+                "WACKY"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "DISNEY DUCKS",
+            "words": [
+                "DAISY",
+                "DEWEY",
+                "DONALD",
+                "SCROOGE"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "___ CLOCK",
+            "words": [
+                "ALARM",
+                "BIOLOGICAL",
+                "CUCKOO",
+                "GRANDFATHER"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ],
+    [
+        {
+            "description": "FRUITS",
+            "words": [
+                "APRICOT",
+                "FIG",
+                "GRAPE",
+                "LIME"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "LUXURIOUS",
+            "words": [
+                "DELUXE",
+                "GRAND",
+                "LAVISH",
+                "OPULENT"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "BEST ACTRESS OSCAR WINNERS",
+            "words": [
+                "BERRY",
+                "FOSTER",
+                "STONE",
+                "SWANK"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "WHAT \u201cGREEN\u201d MIGHT MEAN",
+            "words": [
+                "ENVIOUS",
+                "FRESH",
+                "NAIVE",
+                "UNWELL"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ],
+    [
+        {
+            "description": "INFORMATION DISPLAYS",
+            "words": [
+                "CHART",
+                "DIAGRAM",
+                "GRAPH",
+                "MAP"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "ADDITIONAL BENEFIT",
+            "words": [
+                "BONUS",
+                "EXTRA",
+                "ICING",
+                "PERK"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "THANKSGIVING FOOD",
+            "words": [
+                "GRAVY",
+                "PIE",
+                "STUFFING",
+                "TURKEY"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "SONG TITLES WITH PARENTHESES",
+            "words": [
+                "I RAN",
+                "ISTANBUL",
+                "MONTERO",
+                "SATISFACTION"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ],
+    [
+        {
+            "description": "SNAKES",
+            "words": [
+                "BOA",
+                "MAMBA",
+                "PYTHON",
+                "VIPER"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "LINGERIE",
+            "words": [
+                "GARTER",
+                "SLIP",
+                "TEDDY",
+                "THONG"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "SUMMARY",
+            "words": [
+                "ABSTRACT",
+                "BRIEF",
+                "DIGEST",
+                "RUNDOWN"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "FULL ___",
+            "words": [
+                "CIRCLE",
+                "HOUSE",
+                "MONTY",
+                "MOON"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ],
+    [
+        {
+            "description": "SYNONYMS FOR ANGRY",
+            "words": [
+                "FURIOUS",
+                "INCENSED",
+                "IRATE",
+                "LIVID"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "THINGS THAT ARE YELLOW",
+            "words": [
+                "BANANA",
+                "CANARY",
+                "SCHOOL BUS",
+                "SUNFLOWER"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "MARINE BIRDS",
+            "words": [
+                "BOOBY",
+                "GULL",
+                "PELICAN",
+                "PUFFIN"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "___ BOYS",
+            "words": [
+                "BEACH",
+                "BEASTIE",
+                "HARDY",
+                "LOST"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ],
+    [
+        {
+            "description": "BOATS",
+            "words": [
+                "FERRY",
+                "JUNK",
+                "TUG",
+                "YACHT"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "SANDWICHES",
+            "words": [
+                "CLUB",
+                "CUBAN",
+                "MELT",
+                "SUB"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "CUTS OF BEEF",
+            "words": [
+                "FLANK",
+                "LOIN",
+                "ROUND",
+                "SHANK"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "NICKNAMES THAT ARE VERBS",
+            "words": [
+                "CHUCK",
+                "JOSH",
+                "ROB",
+                "SUE"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ],
+    [
+        {
+            "description": "PIECES OF CHICKEN",
+            "words": [
+                "BREAST",
+                "DRUMSTICK",
+                "TENDER",
+                "WING"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "GOLF TERMS",
+            "words": [
+                "DRIVER",
+                "EAGLE",
+                "HOLE",
+                "STROKE"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "DRUM SET COMPONENTS",
+            "words": [
+                "CYMBAL",
+                "KICK",
+                "SNARE",
+                "TOM"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "ASSOCIATED WITH \u201cCRAWL\u201d",
+            "words": [
+                "INFANT",
+                "PUB",
+                "SWIMMING",
+                "TICKER"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ],
+    [
+        {
+            "description": "\u201cSKEDADDLE!\u201d",
+            "words": [
+                "GET OUT",
+                "GO",
+                "LEAVE",
+                "SCRAM"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "PRONOUNS",
+            "words": [
+                "ME",
+                "THEM",
+                "US",
+                "YOU"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "ANAGRAMS",
+            "words": [
+                "NOPE",
+                "OPEN",
+                "PEON",
+                "PONE"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "___ BABY",
+            "words": [
+                "BEANIE",
+                "FUR",
+                "NEPO",
+                "SANTA"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ],
+    [
+        {
+            "description": "FASTENING VERBS",
+            "words": [
+                "BUCKLE",
+                "BUTTON",
+                "SNAP",
+                "ZIP"
+            ],
+            "emoji": "\ud83d\udfe8",
+            "color": "#fbd400"
+        },
+        {
+            "description": "SLANG FOR ZERO",
+            "words": [
+                "JACK",
+                "NADA",
+                "NOTHING",
+                "SQUAT"
+            ],
+            "emoji": "\ud83d\udfe9",
+            "color": "#69e352"
+        },
+        {
+            "description": "GYM EXERCISES",
+            "words": [
+                "CURL",
+                "LUNGE",
+                "PLANK",
+                "PRESS"
+            ],
+            "emoji": "\ud83d\udfe6",
+            "color": "#5492ff"
+        },
+        {
+            "description": "\u201cCAPTAINS\u201d",
+            "words": [
+                "CRUNCH",
+                "KANGAROO",
+                "OBVIOUS",
+                "PLANET"
+            ],
+            "emoji": "\ud83d\udfea",
+            "color": "#df7bea"
+        }
+    ]
+]
